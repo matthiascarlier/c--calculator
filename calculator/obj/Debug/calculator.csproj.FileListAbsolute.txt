@@ -5,3 +5,10 @@ C:\Users\matthias\Documents\SharpDevelop Projects\calculator\calculator\obj\Debu
 C:\Users\matthias\Documents\SharpDevelop Projects\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
 C:\Users\matthias\Documents\SharpDevelop Projects\calculator\calculator\obj\Debug\calculator.exe
 C:\Users\matthias\Documents\SharpDevelop Projects\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\matthias\Documents\SharpDevelop Projects\calculator\c--calculator\calculator\bin\Debug\calculator.exe
+C:\Users\matthias\Documents\SharpDevelop Projects\calculator\c--calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\matthias\Documents\SharpDevelop Projects\calculator\c--calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\matthias\Documents\SharpDevelop Projects\calculator\c--calculator\calculator\obj\Debug\calculator.MainForm.resources
+C:\Users\matthias\Documents\SharpDevelop Projects\calculator\c--calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\matthias\Documents\SharpDevelop Projects\calculator\c--calculator\calculator\obj\Debug\calculator.exe
+C:\Users\matthias\Documents\SharpDevelop Projects\calculator\c--calculator\calculator\obj\Debug\calculator.pdb
